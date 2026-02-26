@@ -99,7 +99,7 @@ Make sense of data from multiple sources.
 
 - Python 3.x
 - Pandas
-- Jupyter Notebook / VS Code
+- Jupyter Notebook / VS Code / PyCharm
 
 ---
 
