@@ -1,5 +1,5 @@
 # Pandas
-Perfect my data manipulation skills
+Perfect my data manipulation and data wrangling skills
 
 ## 📌 Overview
 
@@ -27,7 +27,7 @@ You can’t work with data if you can’t read it.
 
 ---
 
-### 2️⃣ Indexing, Selecting & Assigning
+### 2️⃣ Selecting, Filtering & Assigning
 Core skills used daily by data professionals.
 
 - Selecting columns and rows
