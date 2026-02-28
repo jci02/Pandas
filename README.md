@@ -1,5 +1,5 @@
 # Pandas
-Perfect my data manipulation and data wranggling skills
+Perfect my data manipulation and data wrangling skills
 
 ## 📌 Overview
 
